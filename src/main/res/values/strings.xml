@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UMSL GPA Calculator</string>
+
+    <string-array name="grads">
+        <item></item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>D-</item>
+        <item>F</item>
+        <item>FN</item>
+    </string-array>
+
+    <string-array name="repeat">
+        <item>NO</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>D-</item>
+        <item>F</item>
+        <item>FN</item>
+    </string-array>
+
+    <string name="item_1">GPA Calc</string>
+    <string name="item_2">Goal GPA Calc</string>
+</resources>
